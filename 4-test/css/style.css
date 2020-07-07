@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.ceo{
+	margin-bottom: 1em;
+}
+
+.ceo p, 
+.oomori p{
+	margin: 0 0 0 2.5em;
+}

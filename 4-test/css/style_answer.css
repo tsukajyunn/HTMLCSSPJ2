@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+h1{
+	font-size: 1.5em;
+}
+
+h2{
+	font-size: 1.17em;
+}
+
+p{ 
+	color: #FF0000;
+}
+
+.reason-3 p{
+	color: #000000;
+}
+
+.ceo{
+	margin-bottom: 1em;
+}
+
+.ceo p, 
+.oomori p{
+	margin: 0 0 0 2.5em;
+}
+
+.ceo p a,
+.oomori p a{
+	color: #0000FF;
+}
+
